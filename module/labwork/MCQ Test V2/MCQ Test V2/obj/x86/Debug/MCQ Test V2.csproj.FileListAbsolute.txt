@@ -1,0 +1,9 @@
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\bin\Debug\MCQ Test V2.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\bin\Debug\MCQ Test V2.pdb
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\MCQ_Test_V2.Form1.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\MCQ_Test_V2.Properties.Resources.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\MCQ Test V2.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\MCQ Test V2\MCQ Test V2\obj\x86\Debug\MCQ Test V2.pdb

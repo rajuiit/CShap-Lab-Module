@@ -1,0 +1,7 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\bin\Debug\stringVariabls.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\bin\Debug\stringVariabls.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\obj\x86\Debug\stringVariabls.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\obj\x86\Debug\stringVariabls.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\obj\x86\Debug\stringVariabls.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\obj\x86\Debug\stringVariabls.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringVariabls\stringVariabls\obj\x86\Debug\stringVariabls.pdb

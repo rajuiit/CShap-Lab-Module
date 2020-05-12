@@ -1,0 +1,10 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\bin\Debug\reportfirst.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\bin\Debug\reportfirst.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\reportfirst.csprojResolveAssemblyReference.cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\reportfirst.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\reportfirst.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\reportfirst.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\RdlCompile.cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\RdlCompile.compiled
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\reportfirst.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\reportfirst\reportfirst\obj\x86\Debug\reportfirst.pdb

@@ -1,0 +1,9 @@
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\Age_Calculator.Form1.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\Age_Calculator.Properties.Resources.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\bin\Debug\Age Calculator.pdb
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.pdb

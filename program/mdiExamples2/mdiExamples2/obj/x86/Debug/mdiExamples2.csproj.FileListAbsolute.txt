@@ -1,0 +1,7 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\bin\Debug\mdiExamples2.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\bin\Debug\mdiExamples2.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\obj\x86\Debug\mdiExamples2.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\obj\x86\Debug\mdiExamples2.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\obj\x86\Debug\mdiExamples2.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\obj\x86\Debug\mdiExamples2.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\mdiExamples2\mdiExamples2\obj\x86\Debug\mdiExamples2.pdb

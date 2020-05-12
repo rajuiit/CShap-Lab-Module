@@ -1,0 +1,7 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\bin\Debug\stringwork.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\bin\Debug\stringwork.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\obj\x86\Debug\stringwork.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\obj\x86\Debug\stringwork.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\obj\x86\Debug\stringwork.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\obj\x86\Debug\stringwork.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\stringwork\stringwork\obj\x86\Debug\stringwork.pdb

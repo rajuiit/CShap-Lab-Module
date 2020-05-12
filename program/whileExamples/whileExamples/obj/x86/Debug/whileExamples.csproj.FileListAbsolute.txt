@@ -1,0 +1,7 @@
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\obj\x86\Debug\whileExamples.Form1.resources
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\obj\x86\Debug\whileExamples.Properties.Resources.resources
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\obj\x86\Debug\whileExamples.csproj.GenerateResource.Cache
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\bin\Debug\whileExamples.exe
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\bin\Debug\whileExamples.pdb
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\obj\x86\Debug\whileExamples.exe
+C:\Users\mrrajuiit865\Documents\Visual Studio 2010\Projects\whileExamples\whileExamples\obj\x86\Debug\whileExamples.pdb

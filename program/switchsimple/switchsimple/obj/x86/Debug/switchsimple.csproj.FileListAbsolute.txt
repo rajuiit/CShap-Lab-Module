@@ -1,0 +1,7 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\bin\Debug\switchsimple.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\bin\Debug\switchsimple.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\obj\x86\Debug\switchsimple.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\obj\x86\Debug\switchsimple.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\obj\x86\Debug\switchsimple.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\obj\x86\Debug\switchsimple.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\switchsimple\switchsimple\obj\x86\Debug\switchsimple.pdb

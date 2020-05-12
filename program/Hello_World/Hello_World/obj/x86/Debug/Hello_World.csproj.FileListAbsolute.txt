@@ -1,0 +1,7 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Debug\Hello_World.pdb

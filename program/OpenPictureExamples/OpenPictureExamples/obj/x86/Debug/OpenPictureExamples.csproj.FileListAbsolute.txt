@@ -1,0 +1,7 @@
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\bin\Debug\OpenPictureExamples.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\bin\Debug\OpenPictureExamples.pdb
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\obj\x86\Debug\OpenPictureExamples.Form1.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\obj\x86\Debug\OpenPictureExamples.Properties.Resources.resources
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\obj\x86\Debug\OpenPictureExamples.csproj.GenerateResource.Cache
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\obj\x86\Debug\OpenPictureExamples.exe
+c:\users\mrrajuiit865\documents\visual studio 2010\Projects\OpenPictureExamples\OpenPictureExamples\obj\x86\Debug\OpenPictureExamples.pdb

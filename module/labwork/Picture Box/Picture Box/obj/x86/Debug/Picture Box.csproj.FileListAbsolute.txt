@@ -1,0 +1,9 @@
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\bin\Debug\Picture Box.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\bin\Debug\Picture Box.pdb
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\Picture_Box.Form1.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\Picture_Box.Properties.Resources.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\Picture Box.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\Picture Box\Picture Box\obj\x86\Debug\Picture Box.pdb
